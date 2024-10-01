@@ -1,0 +1,3 @@
+/Users/hlo/Desktop/macosvscode/algorithms and staff/c-make/build/CMakeFiles/my_program.dir
+/Users/hlo/Desktop/macosvscode/algorithms and staff/c-make/build/CMakeFiles/edit_cache.dir
+/Users/hlo/Desktop/macosvscode/algorithms and staff/c-make/build/CMakeFiles/rebuild_cache.dir

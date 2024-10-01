@@ -1,0 +1,79 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXFileReference section */
+		5EB88FD72C2B136200F965CB /* sourse.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = sourse.cpp; sourceTree = "<group>"; };
+		5EB88FD82C2B136200F965CB /* sourse.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = sourse.hpp; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		5EB88FD02C2B12F500F965CB = {
+			isa = PBXGroup;
+			children = (
+				5EB88FD72C2B136200F965CB /* sourse.cpp */,
+				5EB88FD82C2B136200F965CB /* sourse.hpp */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		5EB88FD12C2B12F500F965CB /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1540;
+			};
+			buildConfigurationList = 5EB88FD42C2B12F500F965CB /* Build configuration list for PBXProject "test2" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 5EB88FD02C2B12F500F965CB;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		5EB88FD52C2B12F500F965CB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				NEW_SETTING = "";
+			};
+			name = Debug;
+		};
+		5EB88FD62C2B12F500F965CB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				NEW_SETTING = "";
+				"NEW_SETTING[arch=*]" = "";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		5EB88FD42C2B12F500F965CB /* Build configuration list for PBXProject "test2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5EB88FD52C2B12F500F965CB /* Debug */,
+				5EB88FD62C2B12F500F965CB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 5EB88FD12C2B12F500F965CB /* Project object */;
+}
