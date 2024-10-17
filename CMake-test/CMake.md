@@ -12,7 +12,7 @@ project/
 
 ```
 
-### CMake.txt
+### CMakeLists.txt
 ```cmake
 # Минимальная версия CMake
 
